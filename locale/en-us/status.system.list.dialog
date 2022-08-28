@@ -1,1 +1,1 @@
-My cpu temperature is {cputemp}. {mem}% of memory in use.
+My core temperature is {cputemp} degrees celcius. Memory usage is currently at {mem} percent.
