@@ -1,1 +1,1 @@
-My core temperature is {cputemp} degrees celcius. Memory usage is currently at {mem} percent.
+My core temperature is {cputemp} degrees celsius. Currently, {mem} percent of my memory is in use. {disk_percentage} percent of total disk space is currently in use, which means that there is {disk_free} gigabytes of disk space available.
